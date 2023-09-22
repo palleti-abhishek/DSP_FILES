@@ -142,3 +142,12 @@
     border-radius: 1.7%;
     outline-offset: 10px;
 }
+.set3
+{
+    outline: solid;
+    outline-width:2px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 1.7%;
+    outline-offset: 10px;   
+}
